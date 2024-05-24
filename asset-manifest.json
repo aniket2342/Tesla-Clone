@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tesla-Clone/static/css/main.f855e6bc.css",
+    "main.js": "/Tesla-Clone/static/js/main.05a3870f.js",
+    "static/js/787.8cf52469.chunk.js": "/Tesla-Clone/static/js/787.8cf52469.chunk.js",
+    "static/media/Accessories _Tesla (2).jpg": "/Tesla-Clone/static/media/Accessories _Tesla (2).62673bf8191727c67d5a.jpg",
+    "static/media/Introducing Model Y.mp4": "/Tesla-Clone/static/media/Introducing Model Y.9e635ee0d3f08c689f76.mp4",
+    "static/media/solar-roof.jpg": "/Tesla-Clone/static/media/solar-roof.f043bc74f151634fc1d9.jpg",
+    "static/media/models.jpg": "/Tesla-Clone/static/media/models.1ceb81606cff5e75bf55.jpg",
+    "static/media/model3.jpg": "/Tesla-Clone/static/media/model3.6942e4523a6f7f191143.jpg",
+    "static/media/powerwall.jpg": "/Tesla-Clone/static/media/powerwall.4bd01721510ce17ba178.jpg",
+    "static/media/cyberTruck_tesla.png": "/Tesla-Clone/static/media/cyberTruck_tesla.f989998ff460bb60dfa9.png",
+    "static/media/modelx.jpg": "/Tesla-Clone/static/media/modelx.bbc953098af997b3af03.jpg",
+    "static/media/solar_panel.jpg": "/Tesla-Clone/static/media/solar_panel.7a9b2946274fcdc8764e.jpg",
+    "static/media/logonew.png": "/Tesla-Clone/static/media/logonew.d0dcd6a62885ed9549b5.png",
+    "index.html": "/Tesla-Clone/index.html",
+    "main.f855e6bc.css.map": "/Tesla-Clone/static/css/main.f855e6bc.css.map",
+    "main.05a3870f.js.map": "/Tesla-Clone/static/js/main.05a3870f.js.map",
+    "787.8cf52469.chunk.js.map": "/Tesla-Clone/static/js/787.8cf52469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.05a3870f.js"
+  ]
+}
